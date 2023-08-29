@@ -13,3 +13,6 @@
 [submodule "epsrc-ugrdv-msgs"]
 	path = epsrc-ugrdv-msgs
 	url = https://github.com/mrjoe3012/epsrc-ugrdv-msgs
+[submodule "epsrc-eufs-sim"]
+	path = epsrc-eufs-sim
+	url = https://github.com/mrjoe3012/epsrc-eufs-sim.git
