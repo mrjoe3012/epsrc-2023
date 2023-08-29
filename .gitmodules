@@ -1,0 +1,9 @@
+[submodule "epsrc-controller"]
+	path = epsrc-controller
+	url = https://github.com/mrjoe3012/epsrc-controller
+[submodule "epsrc-sim-data-collection"]
+	path = epsrc-sim-data-collection
+	url = https://github.com/mrjoe3012/epsrc-sim-data-collection
+[submodule "epsrc-cluster-files"]
+	path = epsrc-cluster-files
+	url = https://github.com/mrjoe3012/epsrc-cluster-files
