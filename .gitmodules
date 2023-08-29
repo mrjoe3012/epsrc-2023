@@ -7,3 +7,6 @@
 [submodule "epsrc-cluster-files"]
 	path = epsrc-cluster-files
 	url = https://github.com/mrjoe3012/epsrc-cluster-files
+[submodule "epsrc-vehicle-model"]
+	path = epsrc-vehicle-model
+	url = https://github.com/mrjoe3012/epsrc-vehicle-model.git
