@@ -16,3 +16,6 @@
 [submodule "epsrc-eufs-sim"]
 	path = epsrc-eufs-sim
 	url = https://github.com/mrjoe3012/epsrc-eufs-sim.git
+[submodule "epsrc-eufs-msgs"]
+	path = epsrc-eufs-msgs
+	url = https://github.com/mrjoe3012/epsrc-eufs-msgs.git
