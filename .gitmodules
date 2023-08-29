@@ -10,3 +10,6 @@
 [submodule "epsrc-vehicle-model"]
 	path = epsrc-vehicle-model
 	url = https://github.com/mrjoe3012/epsrc-vehicle-model.git
+[submodule "epsrc-ugrdv-msgs"]
+	path = epsrc-ugrdv-msgs
+	url = https://github.com/mrjoe3012/epsrc-ugrdv-msgs
