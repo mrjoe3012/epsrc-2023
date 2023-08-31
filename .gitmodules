@@ -19,3 +19,6 @@
 [submodule "epsrc-eufs-msgs"]
 	path = epsrc-eufs-msgs
 	url = https://github.com/mrjoe3012/epsrc-eufs-msgs.git
+[submodule "epsrc-docker"]
+	path = epsrc-docker
+	url = https://github.com/mrjoe3012/epsrc-docker.git
