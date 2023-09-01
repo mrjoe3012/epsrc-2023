@@ -1,0 +1,12 @@
+site_name: EPSRC 2023
+theme:
+  name: material
+  highlightjs: true
+  hljs_languages:
+    - python
+    - bash
+nav:
+  - Home: index.md
+  - sim-data-collection: sim-data-collection.md
+  - docker: docker.md
+  - controller: controller.md
