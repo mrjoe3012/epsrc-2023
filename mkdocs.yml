@@ -10,3 +10,4 @@ nav:
   - sim-data-collection: sim-data-collection.md
   - docker: docker.md
   - controller: controller.md
+  - vehicle-model: vehicle-model.md
