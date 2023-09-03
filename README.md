@@ -8,4 +8,13 @@ This repository is a collection of submodules, each of which cover a more specif
 git clone --recursive https://github.com/mrjoe3012/epsrc-2023.git
 ```
 
-For a comprehensive guide on how to use this project, please refer to the [documentation]().
+For a comprehensive guide on how to use this project, please refer to the documentation.
+
+## Viewing the Documentation
+
+The docs site source comes as part of this project under the `docs/` directory. This site uses `mkdocs`. From the root directory of this repository, run the following commands to view the documentation.
+
+```bash
+pip install --user mkdocs mkdocs-material
+mkdocs serve
+```
