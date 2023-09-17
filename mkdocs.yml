@@ -7,6 +7,7 @@ theme:
     - bash
 nav:
   - Home: index.md
+  - Usage Guide: usage-guide.md
   - sim-data-collection: sim-data-collection.md
   - docker: docker.md
   - controller: controller.md
